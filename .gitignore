@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# dev environments
+.debug.html
+test.py
