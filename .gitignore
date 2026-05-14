@@ -11,4 +11,4 @@ wheels/
 
 # dev environments
 .debug.html
-test.py
+.test.py

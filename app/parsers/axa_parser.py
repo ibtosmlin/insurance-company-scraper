@@ -1,9 +1,9 @@
 # app/parsers/axa_parser.py
 
 from bs4 import BeautifulSoup
+from utils.adj_utils import adj_dlt
 
 from app.models import NewsItem
-from app.utils.adj import adj_dlt
 
 
 def parse(
